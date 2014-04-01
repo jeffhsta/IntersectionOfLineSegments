@@ -1,0 +1,2 @@
+class LineError < StandardError
+end

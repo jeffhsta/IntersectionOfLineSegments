@@ -1,0 +1,2 @@
+class InvalidValuesForPointError < StandardError
+end
